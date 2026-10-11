@@ -1,5 +1,10 @@
-# Trabalho_ME_FIA
+# Trabalho Metodologias Ativas: Raciocínio Probabilístico
 
-## Alunos:
-  Sebastian Lima Guedes - ABI01 - 22651107
-  Davi Teles de Moraes - ABI01 - 22651096
+**Disciplina:** Fundamentos de Inteligência Artificial
+
+**Professor:** Edjard Mota
+
+## Integrantes
+
+- **Sebastian Lima Guedes** — ABI01 — Matrícula: 22651107
+- **Davi Teles de Moraes** — ABI01 — Matrícula: 22651096
